@@ -3,7 +3,7 @@ import pyxel as px
 
 """ 
 Nuit du code 2025
-Fait par Théo Dumez et Nathan Boucherit
+Fait par @Mawtheo
 """
 
 class App:
