@@ -16,4 +16,4 @@ et la touche espace pour utiliser votre épée.
 
 ### Comment gagner ?
 
-Survivre 10 rounds (5 squelettes tués = 1 round)
+Survivre 5 rounds (5 squelettes tués = 1 round)
